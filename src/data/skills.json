@@ -1,0 +1,53 @@
+[
+    {
+        "title" : "Java",
+        "imageSrc" : "skills/java.png"
+    },
+    {
+        "title" : "Python",
+        "imageSrc" : "skills/python.png"
+    },
+    {
+        "title" : "AS400",
+        "imageSrc" : "skills/ibm1.png"
+    },
+    {
+        "title" : "Infor",
+        "imageSrc" : "skills/infor.png"
+    },
+    {
+        "title" : "HTML",
+        "imageSrc" : "skills/html.png"
+    },
+    {
+        "title" : "CSS",
+        "imageSrc" : "skills/css.png"
+    },
+    {
+        "title" : "Bootstrap",
+        "imageSrc" : "skills/bootstrap.png"
+    },
+    {
+        "title" : "Javascript",
+        "imageSrc" : "skills/javascript.png"
+    },
+    {
+        "title" : "Reactjs",
+        "imageSrc" : "skills/reactjs.png"
+    },
+    {
+        "title" : "MySQL",
+        "imageSrc" : "skills/mysql.png"
+    },
+    {
+        "title" : "SQLServer",
+        "imageSrc" : "skills/sqlserver.png"
+    },
+    {
+        "title" : "MongoDB",
+        "imageSrc" : "skills/MongoDB.png"
+    }
+
+
+    
+]

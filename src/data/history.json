@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "Software Engineer, ",
+        "organisation" : "Barry Wehmiller Design Group",
+        "startDate" : "Nov, 2023 - ",
+        "endDate" : "Present",
+        "experiences" : ["Proficient in RPGLE, CLLE, and Infor Powerlink",
+        "Retrieved Customer Orders and CO Line Items data from the ECommerce website and created Customer Orders in Infor XA using RPGLE programming and Infor Powerlink.",
+        "Worked on a CPQ (Configure Price Quote) project to automate pricing and quoting." ,
+        "Integrated Infor XA with MuleSoft using Infor ION, data exchange between on-premise IBM iSeries applications and cloud platforms" ]
+
+            },
+
+            {
+                "role" : "Backend Trainee - Intern, ",
+                "organisation" : "Missile Ingeniator",
+                "startDate" : "",
+                "endDate" : "",
+                "experiences" : ["Utilized Postman API for testing and loading data into PostgreSQL and MongoDB databases" ,
+                "Hands-on experience developing “Simplezone”, a responsive web app using React.js" ]
+        
+                    }
+        
+
+
+]

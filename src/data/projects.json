@@ -1,0 +1,59 @@
+[
+    
+    {
+        "title": "ECommerce System",
+        "imageSrc": "projects/Ecommerce.png",
+        "description": "A React-based E-commerce application that allows users to browse products, search by name, view product details, manage a shopping cart, and place orders.",
+        "skills": ["ReactJS", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB"]
+    },
+    {
+        "title": "SimpleZone",
+        "imageSrc": "projects/simplezone.png",
+        "description": "Developed part of the front-end components using React and managed backend operations with PostgreSQL and MongoDB databases.",
+        "skills": ["ReactJS", "PostgreSQL", "MongoDB", "Postman","NodeJs", "ExpressJs"]
+    },
+   
+    {
+        "title": "Online Food Ordering System",
+        "imageSrc": "projects/Food2.png",
+        "description": "A web-based food ordering system with front-end UI using HTML and CSS, and backend built with PHP and MySQL.",
+        "skills": ["HTML", "CSS", "MySQL", "JavaScript", "PHP"]
+    },
+    {
+        "title": "Library Management System",
+        "imageSrc": "projects/LibMgmt.png",
+        "description": "Built a library management system with a front-end UI and backend using PHP and MySQL.",
+        "skills": ["HTML", "CSS", "MySQL", "JavaScript", "PHP"]
+    },
+    {
+        "title": "Detecting Signs of Depression from Social Media Text",
+        "imageSrc": "projects/depression.png",
+        "description": "Developed a machine learning model to detect signs of depression using social media text data.",
+        "skills": ["Machine Learning Basics"]
+    },
+    
+    {
+        "title": "Bus Ticket Booking System",
+        "imageSrc": "projects/Bus.png",
+        "description": "Created a desktop-based Java Swing application for bus ticket booking with a complete GUI and booking flow.",
+        "skills": ["Java"]
+    },
+    {
+        "title": "CPQ Project",
+        "imageSrc": "projects/cpq.jpg",
+        "description": "Worked on product configuration and pricing automation using Infor CPQ.",
+        "skills": ["Infor CPQ"]
+    },
+    {
+        "title": "Data Migration",
+        "imageSrc": "projects/powerlink.png",
+        "description": "Migrated data from Infor XA to Mulesoft using Infor ION API integration.",
+        "skills": ["Infor Powerlink","Infor ION"]
+    },
+    {
+        "title": "Customer Order Creation",
+        "imageSrc": "projects/as400.png",
+        "description": "Automated customer order and line item creation from CSV files via SystemLink using RPGLE.",
+        "skills": ["RPGLE - AS400", "Infor Powerlink"]
+    }
+]
